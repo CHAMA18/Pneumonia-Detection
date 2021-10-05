@@ -106,6 +106,6 @@ You can, alternatively, try out the hosted web application [here](https://gradio
 
 ## Developer
 
-Baishali Dutta (<a href='mailto:chungu424@gmail.com'>chungu424@gmail.com</a>)
+Chungu Chipimo Chama (<a href='mailto:chungu424@gmail.com'>chungu424@gmail.com</a>)
 
 
