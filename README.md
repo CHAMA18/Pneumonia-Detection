@@ -106,12 +106,6 @@ You can, alternatively, try out the hosted web application [here](https://gradio
 
 ## Developer
 
-Baishali Dutta (<a href='mailto:me@itsbaishali.com'>me@itsbaishali.com</a>)
+Baishali Dutta (<a href='mailto:chungu424@gmail.com'>chungu424@gmail.com</a>)
 
-## Contribution [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/baishalidutta/Pneumonia-Detection/issues)
 
-If you would like to contribute and improve the model further, check out the [Contribution Guide](https://github.com/baishalidutta/Pneumonia-Detection/blob/main/CONTRIBUTING.md)
-
-## License [![License](http://img.shields.io/badge/license-Apache-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-
-This project is licensed under Apache License Version 2.0
